@@ -41,7 +41,7 @@ The **Australia Climate Dashboard** provides a detailed analysis of the climate 
 - **Interactive features**:
   - View maximum, average, and historical wind speed for selected regions.
   - Click on specific wind directions to explore historical wind speeds across years.
-![Example Image](2.png)
+   - ![Example Image](2.png)
 ---
 
 ### **4. Exploration Module**
@@ -55,10 +55,9 @@ The **Australia Climate Dashboard** provides a detailed analysis of the climate 
 - **Additional features**:
   - **Color classification** (e.g., humidity at 9 a.m. or 3 p.m.) reveals complex relationships between variables.
   - Provides a comprehensive view of the interplay between wind speed, rainfall, and humidity.
-![Example Image](3.png)
-
-![Example Image](4.png)
-![Example Image](5.png)
+ -![Example Image](3.png)
+ -![Example Image](4.png)
+ -![Example Image](5.png)
 ---
 
 ### **5. About Module**
